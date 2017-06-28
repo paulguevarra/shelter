@@ -1,0 +1,34 @@
+.animal {
+  width: 300px;
+  float: left;
+}
+img {
+  height: 300px;
+  width: 250px;
+  display: block;
+  margin: auto;
+}
+div h2 {
+  font-family: cursive;
+  color: blue;
+  text-align: center;
+}
+div {
+  font-family: sans-serif;
+  color: black;
+  margin: 10px;
+  text-align: justify;
+
+}
+h2 {
+  font-family: sans-serif;
+  color: black;
+}
+h1 {
+  font-family: fantasy;
+  color: purple;
+  font-size: 50px;
+  font-stretch: extra-expanded;
+  text-align: center;
+  font-weight: bolder;
+}
